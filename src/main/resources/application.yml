@@ -1,0 +1,10 @@
+server:
+  port: 8081
+
+spring:
+  application:
+    name: HitoProgramacion
+  data:
+    mongodb:
+      uri: mongodb+srv://admin:admin@hitoprogramacion.k3gaujt.mongodb.net/?retryWrites=true&w=majority&appName=HitoProgramacion
+      database: HitoProgramacion
